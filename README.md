@@ -24,6 +24,7 @@ https://git-scm.com/downloads
 8.	Create a "branch" (version), make a change, commit the change
 9.	Open a "pull request" (propose changes to the main branch)
 10.	"Merge" your branch to the main branch
+
 Directions on Using GitHub
 1.	Create a Github account:
 https://github.com/join
