@@ -35,6 +35,7 @@ https://github.com/join
 6.	Merge your pull request
 
 Glossary
+
 •	Branch- A copy of a codeline, managed in a version control system (VCS).
 •	Clone- creating a replica of an existing website to make the changes.
 •	Commit- Refers to the act of saving changes made in a file or set of files, often in a version control system like GIT.
